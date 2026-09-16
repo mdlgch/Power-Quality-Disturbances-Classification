@@ -48,7 +48,7 @@ A Convolutional Neural Network (CNN) is used to learn patterns in the voltage si
 The trained CNN achieved a test accuracy of 100%. No significant overfitting was observed during training, and the model successfully classified the test samples into their corresponding power quality classes.
 
 
-<img src="plots/results.png" width="500">
+<img src="plots/results.png" width="700">
 
 <img src="plots/confusion-matrix.png" width="500">
 
