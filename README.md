@@ -18,7 +18,7 @@ This project focuses on classifying power quality conditions from electrical vol
 
 
 
-!\[Power Quality Signals](plots/samples.png)
+![Power Quality Signals](plots/samples.png)
 
 
 
@@ -49,11 +49,11 @@ The trained CNN achieved a test accuracy of 100%. No significant overfitting was
 
 
 
-!\[Results](plots/results.png)
+![Results](plots/results.png)
 
 
 
-!\[Results](plots/confusion-matrix.png)
+![Results](plots/confusion-matrix.png)
 
 
 
